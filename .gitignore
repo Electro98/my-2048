@@ -1,0 +1,16 @@
+# optimized
+__pycache__/
+
+# Test dir
+test/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# vscode settings
+.vscode/
+
+# something
